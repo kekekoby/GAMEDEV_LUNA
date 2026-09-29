@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 30
-  productGUID: 15591bc1148095e5c95cf8130b33e4de
+  productGUID: 644bd9a6d6ced5443865eca5edcf9237
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: GummiRin
+  productName: gamedev-unity-project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -860,14 +860,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: GummiRin
+  metroPackageName: gamedev-unity-project
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: GummiRin
+  metroApplicationDescription: gamedev-unity-project
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -935,14 +935,14 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: 164c8417-cae1-4750-9ac9-700bbdb3d190
+  cloudProjectId: a17f4d5a-6aa1-4e5c-b876-41fdfa1d6fdc
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: GummiRin
-  organizationId: jacobaluna8
+  projectName: gamedev-unity-project
+  organizationId: natetrndd
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
